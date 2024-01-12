@@ -1,0 +1,8 @@
+@inproceedings{REPO253,
+    author = "Liu, Donghua and Li, Jing and Du, Bo and Chang, Jun and Gao, Rong",
+    booktitle = "Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \\& Data Mining",
+    numpages = "9",
+    pages = "344¨C352",
+    title = "{DAML: Dual Attention Mutual Learning between Ratings and Reviews for Item Recommendation}",
+    year = "2019"
+}
